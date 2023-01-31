@@ -87,57 +87,54 @@ const MySkillsPage = () => {
         <ThemeProvider theme={lightTheme}>
 <Box>
 
-<LogoComponent theme='light'/>
-<SocialIcons theme='light'/>
-<PowerButton />
-<ParticleComponent theme='light' />
-            <Main>
-<Title>
-    <Design width={40} height={40} /> Designer
-</Title>
-<Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
-</Description>
-<Description>
-<strong>I like to Design</strong>
-<ul>
-    <li>
-        Web Design
-    </li>
-    <li>
-        Mobile Apps
-    </li>
-</ul>
-</Description>
-<Description>
-<strong>Tools</strong>
-<ul>
-    <li>
-       Figma
-    </li>
-    
-</ul>
-</Description>
 
-            </Main>
             <Main>
 <Title>
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I am a Computer science student with a intrest in web developement. I am currently a college undergraduate and working hard to speacialize in the same.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, C++, Bootstrap, Redux, Firebase etc.
 </p>
 </Description>
 <Description>
-<strong>Tools</strong>
+<strong>other skills</strong>
 <p>
-VScode, Github, Codepen etc.
+Problem Solving, Creativity
 </p>
+</Description>
+
+            </Main>
+            <LogoComponent theme='light'/>
+<SocialIcons theme='light'/>
+<PowerButton />
+<ParticleComponent theme='light' />
+            <Main>
+<Title>
+    <Design width={40} height={40} /> Other cirricular activities
+</Title>
+<Description>
+I love to play different sports, Play pc games, and travel.
+</Description>
+<Description>
+<strong>My fav sports</strong>
+<ul>
+    <li>
+        Cricket
+    </li>
+    <li>
+        Football
+    </li>
+</ul>
+</Description>
+<Description>
+<strong>Other hobbies</strong>
+<br></br>
+Playing guitar, Adventures
 </Description>
 
             </Main>

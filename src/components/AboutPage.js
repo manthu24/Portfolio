@@ -72,11 +72,10 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        kfnkfaiandanwdnwndl'wdlnakl  nad nklan klanklankafa f jf aflna;lfnaklnlkankfnkwfnkf n
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
-<br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+l<br/> <br/>
+Line 41:  Using target="_blank" without rel="noopener noreferrer" is a security risk: see https://mathiasbynens.github.io/rel-noopener
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
