@@ -9,7 +9,7 @@ import React from 'react'
 //Components
 import Main from "./components/Main";
 import AboutPage from "./components/AboutPage";
-// import WorkPage from "./components/WorkPage";
+import WorkPage from "./components/WorkPage";
 import MySkillsPage from "./components/MySkillsPage";
 import SoundBar from "./subComponents/SoundBar";
 
@@ -36,7 +36,7 @@ function App() {
 
            
 
-            {/* <Route path="/work" element={<WorkPage />} /> */}
+            <Route path="/work" element={<WorkPage />} />
 
             <Route path="/skills" element={<MySkillsPage />} />
             {/* Below is to catch all the other routes and send the user to main component,

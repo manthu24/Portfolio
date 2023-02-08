@@ -1,6 +1,6 @@
 import React from 'react'
 import App from './App'
-// import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './reportWebVitals';
 // import '../node_modules/normalize.css'
 import "normalize.css"
 import { createRoot } from 'react-dom/client';

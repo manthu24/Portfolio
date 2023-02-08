@@ -72,10 +72,10 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        kfnkfaiandanwdnwndl'wdlnakl  nad nklan klanklankafa f jf aflna;lfnaklnlkankfnkwfnkf n
+       
 <br /> <br/>
 l<br/> <br/>
-Line 41:  Using target="_blank" without rel="noopener noreferrer" is a security risk: see https://mathiasbynens.github.io/rel-noopener
+
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />

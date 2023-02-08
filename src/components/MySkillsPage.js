@@ -93,7 +93,7 @@ const MySkillsPage = () => {
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I am a Computer science student with a intrest in web developement. I am currently a college undergraduate and working hard to speacialize in the same.
+I am a Computer science student with a intrest in web developement. I am currently a college undergraduate.
 </Description>
 <Description>
 <strong>Skills</strong>
